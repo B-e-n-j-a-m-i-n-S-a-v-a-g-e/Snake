@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  World.cpp
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(15): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\world.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Window.cpp
+  Textbox.cpp
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\textbox.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.cpp
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\snake.cpp(8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\snake.cpp(173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\snake.cpp(180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+c:\users\benjamin\documents\visual studio 2015\projects\c++games\c++games\game.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++Games.cpp
+  Generating Code...
+  C++Games.vcxproj -> C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\C++Games\Debug\C++Games.exe
